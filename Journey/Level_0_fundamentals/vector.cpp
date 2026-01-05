@@ -63,7 +63,7 @@ int main() {
 
     cout << "Difference: ";
     for (int x : diff) cout << x << " ";
-    cout << "\n";
+    cout << "\n";                        
 
     cout << "Dot Product: " << dp << "\n";
     cout << "\n";
